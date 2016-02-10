@@ -1,0 +1,23 @@
+Name: Lauren LaGrone
+Date: November 5, 2015
+File: hellocube.cpp
+
+Protip: There's a menu that has all of the keyboard functionality (I forgot to demo it)
+
+Base:
+  4 beautiful, rotating cubes of unpredictable color. It's enough to make a grown man cry.
+  Clicking changes the axis of rotation. 'Q' exits the program (useless feature).
+
+Extra:
+  keyboard command: functionality
+  c: Change cube color
+  x: add X axis rotation
+  y: add Y axis rotation
+  z: add Z axis rotation
+  r: reset rotation
+  >: increase speed of rotation
+  <: decrease speed of rotation
+  s: stop rotation
+  w: wire-frame mode
+  m: enable movement:
+    arrow keys: move about the screen (view bobbing!)
