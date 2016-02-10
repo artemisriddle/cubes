@@ -1,8 +1,6 @@
-Name: Lauren LaGrone
-Date: November 5, 2015
-File: hellocube.cpp
+#Hello Cube!
 
-Protip: There's a menu that has all of the keyboard functionality (I forgot to demo it)
+Protip: There's a menu that has all of the keyboard functionality
 
 Base:
   4 beautiful, rotating cubes of unpredictable color. It's enough to make a grown man cry.
